@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mystic8Ball</string>
+    <string name="mystic_8_ball">Mystic 8 Ball</string>
+    <string name="ask_a_yes_no_question_then_tap_the_8_ball_to_reveal_your_destiny">Ask a yes/no question, then tap the 8-ball to reveal your destiny!</string>
+    <string name="tap_to_reveal">Tap to reveal...</string>
+    <string name="ask_another_question">Ask Another Question</string>
+</resources>
